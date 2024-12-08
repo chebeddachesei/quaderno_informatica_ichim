@@ -3,7 +3,7 @@
 <body>
 
 <!-- Introduzione -->
-<h2>Risultato della tua scelta esercizio</h2>
+<h2>Risultato della tua scelta </h2>
 <p>Questo script riceve il nome di un'auto che hai selezionato dal modulo precedente e mostra la tua scelta a schermo.</p>
 
 <?php

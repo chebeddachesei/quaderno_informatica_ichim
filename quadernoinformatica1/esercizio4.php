@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tabella Pitagorica</title>
+    <title>Tabella Pitagorica!</title>
 </head>
 <body>
     <!-- Inizio della tabella -->

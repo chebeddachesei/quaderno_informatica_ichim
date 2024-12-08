@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Elaborazione Registrazione</title>
+    <title>Elaborazione Registrazione!</title>
 </head>
 <body>
     <?php
